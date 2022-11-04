@@ -1,2 +1,0 @@
-libsuitesparse-dev
-finesse==3.0a3
