@@ -3,6 +3,7 @@
 channels:
   - conda-forge
 dependencies:
+  - finesse==3.0a3
   ## System dependencies.
   - make
   - c-compiler
