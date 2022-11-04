@@ -1,2 +1,2 @@
-suitesparse
+suite-sparse
 finesse==3.0a3
